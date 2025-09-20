@@ -1,0 +1,14 @@
+* text=auto
+*.sh text eol=lf
+*.java text eol=lf
+*.kt text eol=lf
+*.md text eol=lf
+*.fxml text eol=lf
+*.properties text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+mvnw text eol=lf
+mvnw.cmd text eol=crlf
